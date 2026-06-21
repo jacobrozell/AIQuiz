@@ -1,0 +1,17 @@
+{
+  "session_date": "2026-05-03T22:06:16.770670",
+  "exam_title": "BCOP CML & CLL Mock Exam",
+  "total_questions": 10,
+  "quiz_mode": {
+    "score": 2,
+    "total_answered": 2,
+    "wrong_answers": []
+  },
+  "timer_data": {
+    "elapsed_seconds": 38814,
+    "completed": false,
+    "auto_saved": true,
+    "emergency_saved": true,
+    "quit_by_user": false
+  }
+}

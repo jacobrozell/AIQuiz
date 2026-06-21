@@ -1,0 +1,24 @@
+{
+  "session_date": "2026-05-03T22:00:09.068203",
+  "exam_title": "BCOP Pharmacokinetics Mock Exam",
+  "total_questions": 10,
+  "quiz_mode": {
+    "score": 0,
+    "total_answered": 1,
+    "wrong_answers": [
+      {
+        "question_id": 1,
+        "question": "A 72-year-old male (weight 68 kg, height 5'7\") with CrCl of 42 mL/min is receiving high-dose methotrexate (12 g/m\u00b2) for osteosarcoma. At 48 hours post-infusion, his methotrexate level is 1.8 \u00b5mol/L. Which of the following is the most appropriate intervention?",
+        "your_answer": "Administer glucarpidase (carboxypeptidase G2) immediately without waiting for leucovorin",
+        "correct_answer": "Increase leucovorin to 100 mg/m\u00b2 IV every 3 hours and ensure aggressive urine alkalinization"
+      }
+    ]
+  },
+  "timer_data": {
+    "elapsed_seconds": 20,
+    "completed": false,
+    "auto_saved": true,
+    "emergency_saved": true,
+    "quit_by_user": false
+  }
+}

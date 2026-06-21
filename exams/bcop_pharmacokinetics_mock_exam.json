@@ -1,0 +1,135 @@
+{
+  "title": "BCOP Pharmacokinetics Mock Exam",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 72-year-old male (weight 68 kg, height 5'7\") with CrCl of 42 mL/min is receiving high-dose methotrexate (12 g/m²) for osteosarcoma. At 48 hours post-infusion, his methotrexate level is 1.8 µmol/L. Which of the following is the most appropriate intervention?",
+      "options": {
+        "A": "Continue standard leucovorin rescue at 15 mg IV every 6 hours",
+        "B": "Increase leucovorin to 100 mg/m² IV every 3 hours and ensure aggressive urine alkalinization",
+        "C": "Administer glucarpidase (carboxypeptidase G2) immediately without waiting for leucovorin",
+        "D": "Increase leucovorin to 150 mg/m² IV every 6 hours and add sodium bicarbonate to IV fluids",
+        "E": "Discontinue leucovorin and initiate hemodialysis"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "A patient with Child-Pugh Class C cirrhosis requires treatment for hepatocellular carcinoma. Which of the following best describes the pharmacokinetic consequence most relevant to sorafenib dosing in this population?",
+      "options": {
+        "A": "Reduced renal clearance of the sorafenib-glucuronide metabolite increases parent drug exposure",
+        "B": "Decreased CYP3A4 and UGT1A9 activity reduces first-pass metabolism, increasing AUC and toxicity risk",
+        "C": "Increased volume of distribution due to ascites results in subtherapeutic peak concentrations",
+        "D": "Reduced plasma albumin increases free fraction of sorafenib, necessitating dose escalation",
+        "E": "Upregulation of P-glycoprotein in cirrhotic liver tissue reduces sorafenib bioavailability"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "A patient on venetoclax for CLL is started on fluconazole for an oral candida infection. Venetoclax is primarily metabolized by CYP3A4. Which of the following best describes the expected pharmacokinetic interaction and appropriate management?",
+      "options": {
+        "A": "Fluconazole induces CYP3A4, reducing venetoclax AUC by ~50%; increase venetoclax dose by 50%",
+        "B": "Fluconazole inhibits CYP3A4, increasing venetoclax AUC by approximately 5- to 6-fold; reduce venetoclax dose by at least 50% and monitor for tumor lysis syndrome",
+        "C": "Fluconazole inhibits P-glycoprotein, doubling venetoclax Cmax; no dose adjustment needed but monitor CBC",
+        "D": "Fluconazole competes with venetoclax for BCL-2 binding, reducing efficacy; switch to an echinocandin",
+        "E": "Fluconazole has no clinically meaningful interaction with venetoclax; continue both at standard doses"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Busulfan pharmacokinetics exhibit significant inter-patient variability. In the context of conditioning regimens prior to hematopoietic stem cell transplant, which of the following statements about busulfan therapeutic drug monitoring (TDM) is MOST accurate?",
+      "options": {
+        "A": "A target AUC of 900–1500 µmol·min/L per dose is associated with reduced veno-occlusive disease risk and adequate myeloablation",
+        "B": "Busulfan TDM is only recommended in pediatric patients due to predictable adult pharmacokinetics",
+        "C": "Busulfan follows zero-order kinetics at therapeutic doses, making AUC-based dosing unreliable",
+        "D": "The primary metabolic pathway susceptible to saturation is CYP3A4-mediated oxidation",
+        "E": "Busulfan clearance is primarily renal; dose adjustment based on CrCl is the preferred approach"
+      },
+      "type": "singleChoice",
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "A patient receiving FOLFIRINOX for pancreatic adenocarcinoma is found to be a UGT1A1*28 homozygous (7/7) poor metabolizer. Which of the following pharmacokinetic and clinical consequences are expected? (Select all that apply)",
+      "options": {
+        "A": "Impaired glucuronidation of SN-38 leads to elevated SN-38 plasma concentrations",
+        "B": "Increased risk of severe neutropenia and diarrhea due to SN-38 accumulation",
+        "C": "Oxaliplatin clearance is also significantly reduced, compounding neurotoxicity risk",
+        "D": "A prophylactic irinotecan dose reduction of 25–50% should be considered",
+        "E": "5-FU metabolism is impaired via the same UGT1A1 pathway, increasing fluorouracil toxicity"
+      },
+      "type": "multiChoice",
+      "answer": ["A", "B", "D"]
+    },
+    {
+      "id": 6,
+      "question": "A 55-year-old woman receiving liposomal doxorubicin (Doxil) for recurrent ovarian cancer asks about the pharmacokinetic differences versus conventional doxorubicin. Which of the following most accurately characterizes the PK profile of PEGylated liposomal doxorubicin compared to conventional doxorubicin?",
+      "options": {
+        "A": "Liposomal encapsulation decreases volume of distribution and prolongs half-life from ~30 hours to ~50 hours with no change in peak-related toxicity",
+        "B": "PEGylation dramatically reduces volume of distribution and increases half-life to ~50–85 hours, reducing peak Cmax and cardiotoxicity risk while enabling EPR-mediated tumor accumulation",
+        "C": "Liposomal doxorubicin has equivalent AUC to conventional doxorubicin but redistributes preferentially to cardiac tissue, paradoxically increasing cardiotoxicity",
+        "D": "PEGylation increases renal clearance of doxorubicin, lowering systemic exposure and requiring higher doses to achieve equivalent efficacy",
+        "E": "Liposomal encapsulation has no effect on the pharmacokinetics of doxorubicin; clinical differences are driven entirely by formulation excipients"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "A patient with NSCLC on erlotinib (an EGFR inhibitor, CYP3A4 substrate) is a current smoker. His erlotinib trough levels are consistently subtherapeutic despite adherence. Which pharmacokinetic mechanism best explains this finding, and what is the recommended management?",
+      "options": {
+        "A": "Smoking induces CYP1A1/1A2, accelerating erlotinib metabolism; increase erlotinib dose to 300 mg/day and counsel on smoking cessation",
+        "B": "Smoking inhibits P-glycoprotein efflux, increasing GI elimination of erlotinib; switch to afatinib",
+        "C": "Nicotine competes with erlotinib for EGFR binding, reducing efficacy; no PK change; consider dose escalation based on EGFR mutation status",
+        "D": "Smoking reduces gastric acid secretion, impairing erlotinib dissolution and absorption; add a PPI",
+        "E": "Smoking has no effect on erlotinib pharmacokinetics; re-evaluate patient adherence"
+      },
+      "type": "singleChoice",
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "A patient with relapsed/refractory multiple myeloma is being started on carfilzomib. Which of the following best describes the pharmacokinetic properties of carfilzomib that guide its dosing schedule and drug interaction profile?",
+      "options": {
+        "A": "Carfilzomib undergoes extensive hepatic metabolism via CYP3A4; strong CYP3A4 inhibitors significantly increase AUC and require dose reduction",
+        "B": "Carfilzomib has a very short half-life (~1 hour), is rapidly cleared via peptidase cleavage and epoxide hydrolysis independent of CYP enzymes, and has minimal drug-drug interaction potential",
+        "C": "Carfilzomib is renally cleared unchanged; dose must be adjusted for CrCl < 50 mL/min to prevent accumulation",
+        "D": "Carfilzomib undergoes enterohepatic recirculation, prolonging its half-life to 24–36 hours and necessitating once-weekly dosing",
+        "E": "Carfilzomib is a prodrug activated by CYP2D6; poor metabolizers have reduced efficacy and should be switched to bortezomib"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "When designing a population pharmacokinetic model for a novel cytotoxic agent, which of the following covariates are routinely evaluated as potential predictors of clearance in oncology PK studies? (Select all that apply)",
+      "options": {
+        "A": "Creatinine clearance or eGFR",
+        "B": "Total bilirubin and hepatic transaminase levels",
+        "C": "Body surface area or lean body weight",
+        "D": "Tumor mutational burden (TMB)",
+        "E": "Albumin concentration"
+      },
+      "type": "multiChoice",
+      "answer": ["A", "B", "C", "E"]
+    },
+    {
+      "id": 10,
+      "question": "A patient with B-cell ALL is receiving intrathecal methotrexate. Compared to systemic IV methotrexate, which of the following statements about intrathecal methotrexate pharmacokinetics is MOST accurate?",
+      "options": {
+        "A": "CSF clearance of methotrexate mirrors plasma clearance due to passive diffusion across the blood-brain barrier",
+        "B": "Methotrexate has a markedly prolonged half-life in the CSF (~8–10 hours) compared to plasma due to the absence of active transport efflux mechanisms in the CNS compartment",
+        "C": "Leucovorin rescue is routinely administered after intrathecal methotrexate to prevent systemic toxicity from rapid CSF-to-plasma redistribution",
+        "D": "Intrathecal methotrexate achieves equivalent CNS exposure to high-dose IV methotrexate at one-tenth the systemic dose due to CSF recirculation",
+        "E": "Polyglutamation of methotrexate occurs preferentially in the CSF rather than systemically, making CSF folate monitoring essential"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "BCOP CML & CLL Mock Exam",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 48-year-old male with newly diagnosed CML in chronic phase is started on imatinib 400 mg daily. At 3 months, his BCR-ABL1 transcript level is 12% (IS). Per ELN 2020 guidelines, how should this response be classified and what is the most appropriate next step?",
+      "options": {
+        "A": "Optimal response; continue imatinib 400 mg daily and recheck BCR-ABL1 at 6 months",
+        "B": "Warning response; continue imatinib but consider switching to a second-generation TKI if no improvement at 6 months",
+        "C": "Failure; switch immediately to a second-generation TKI such as dasatinib or nilotinib",
+        "D": "Warning response; increase imatinib dose to 600 mg daily",
+        "E": "Optimal response; de-escalate to 300 mg daily to minimize toxicity"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "A 62-year-old woman with CML-CP on nilotinib 300 mg BID develops new-onset peripheral arterial occlusive disease (PAOD). Which of the following best explains the mechanism and most appropriate management?",
+      "options": {
+        "A": "Nilotinib inhibits PDGFR and c-KIT, impairing vascular endothelial repair; switch to dasatinib and initiate antiplatelet therapy",
+        "B": "Nilotinib inhibits PDGFR signaling critical for arterial homeostasis and promotes proatherogenic lipid changes; switch to bosutinib or asciminib, which have lower vascular risk profiles",
+        "C": "Nilotinib causes direct platelet aggregation via BCR-ABL1 inhibition; add aspirin and continue nilotinib at reduced dose",
+        "D": "Nilotinib-induced hypertension leads to secondary PAOD; add an ACE inhibitor and continue nilotinib",
+        "E": "Nilotinib activates CYP2C8-mediated metabolism of endogenous vasodilators; switch to ponatinib"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "A 55-year-old patient with CML-CP has failed imatinib and dasatinib therapy. Mutation analysis reveals a T315I BCR-ABL1 kinase domain mutation. Which of the following agents is most appropriate, and why?",
+      "options": {
+        "A": "Nilotinib, because it has broader mutational coverage than dasatinib and was not yet tried",
+        "B": "Bosutinib, because it retains activity against most imatinib-resistant mutations including T315I",
+        "C": "Ponatinib or asciminib 200 mg BID, as these are the only approved agents with demonstrated activity against T315I",
+        "D": "High-dose imatinib (800 mg daily), because T315I confers only intermediate resistance",
+        "E": "Omacetaxine mepesuccinate, as it is the only agent whose mechanism completely bypasses BCR-ABL1 kinase domain mutations"
+      },
+      "type": "singleChoice",
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "A patient with CML in deep molecular response (MR4.5) on imatinib for 6 years wishes to attempt treatment-free remission (TFR). Which of the following criteria must be met before discontinuation is considered appropriate? (Select all that apply)",
+      "options": {
+        "A": "Patient must have been on imatinib (or any TKI) for at least 3 years total",
+        "B": "Sustained MR4 or deeper for at least 2 years on TKI therapy",
+        "C": "No prior history of accelerated or blast phase CML",
+        "D": "BCR-ABL1 quantification must be available at a standardized IS-certified lab with monthly monitoring planned post-discontinuation",
+        "E": "Patient must have achieved complete cytogenetic response within 12 months of TKI initiation"
+      },
+      "type": "multiChoice",
+      "answer": ["A", "B", "C", "D"]
+    },
+    {
+      "id": 5,
+      "question": "A 70-year-old male with newly diagnosed CLL (Rai stage III) and a 17p deletion is being considered for first-line therapy. He has a creatinine clearance of 38 mL/min and multiple comorbidities. Which of the following regimens is most appropriate?",
+      "options": {
+        "A": "FCR (fludarabine, cyclophosphamide, rituximab) — the gold standard for fit patients regardless of cytogenetics",
+        "B": "Bendamustine + rituximab — appropriate for unfit patients and effective regardless of 17p deletion status",
+        "C": "Ibrutinib monotherapy — preferred for 17p-deleted CLL due to BTK inhibition bypassing dysfunctional p53 pathway, with renal dosing considerations",
+        "D": "Venetoclax + obinutuzumab — preferred for 17p-deleted CLL in unfit patients; venetoclax does not require renal dose adjustment",
+        "E": "Both C and D are appropriate first-line options for 17p-deleted unfit CLL patients"
+      },
+      "type": "singleChoice",
+      "answer": "E"
+    },
+    {
+      "id": 6,
+      "question": "A patient with CLL is initiating venetoclax monotherapy after prior ibrutinib failure. The ramp-up schedule begins at 20 mg daily. Which of the following best describes the rationale for the 5-week ramp-up and the most critical monitoring parameter during week 1?",
+      "options": {
+        "A": "The ramp-up prevents cumulative myelosuppression from rapid BCL-2 inhibition; monitor CBC daily for the first week",
+        "B": "Venetoclax causes rapid, synchronized apoptosis of CLL cells leading to tumor lysis syndrome (TLS); risk stratification based on tumor burden and ALC dictates prophylaxis intensity and monitoring frequency",
+        "C": "The ramp-up allows CYP3A4 auto-induction to stabilize venetoclax plasma levels before reaching therapeutic doses; monitor drug levels at each dose step",
+        "D": "Rapid venetoclax dose escalation causes QTc prolongation from BCL-XL inhibition in cardiomyocytes; baseline and weekly ECG monitoring is required",
+        "E": "The gradual increase prevents venetoclax-mediated cytokine release syndrome; premedicate with corticosteroids and monitor IL-6 levels"
+      },
+      "type": "singleChoice",
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "A 66-year-old woman with relapsed CLL on ibrutinib develops new atrial fibrillation. Her cardiologist wants to start rivaroxaban for anticoagulation. Which of the following best characterizes the pharmacokinetic and pharmacodynamic concerns with this combination?",
+      "options": {
+        "A": "Ibrutinib inhibits CYP3A4, significantly increasing rivaroxaban exposure; substitute with apixaban at reduced dose",
+        "B": "Ibrutinib irreversibly inhibits BTK in platelets, impairing collagen- and vWF-mediated platelet aggregation, which combined with rivaroxaban anticoagulation substantially increases major bleeding risk; consider warfarin with close INR monitoring instead",
+        "C": "Ibrutinib and rivaroxaban are both P-glycoprotein substrates; co-administration reduces bioavailability of both agents",
+        "D": "Ibrutinib inhibits BTK-mediated platelet function and is a mild CYP3A4 inhibitor increasing rivaroxaban AUC; the combination carries elevated bleeding risk and warfarin or low-dose DOAC with close monitoring is preferred",
+        "E": "There is no clinically meaningful interaction; rivaroxaban is the preferred anticoagulant in ibrutinib-treated CLL patients with AF per ACC guidelines"
+      },
+      "type": "singleChoice",
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following resistance mechanisms to ibrutinib in CLL have been identified in clinical and preclinical studies? (Select all that apply)",
+      "options": {
+        "A": "BTK C481S mutation preventing covalent binding of ibrutinib to its target",
+        "B": "Gain-of-function mutations in PLCG2 downstream of BTK",
+        "C": "Upregulation of BCL-2 providing an alternative anti-apoptotic escape pathway",
+        "D": "Development of BCR-ABL1 T315I gatekeeper mutation",
+        "E": "Amplification of the BTK gene leading to target overexpression"
+      },
+      "type": "multiChoice",
+      "answer": ["A", "B", "C"]
+    },
+    {
+      "id": 9,
+      "question": "A 58-year-old patient with CLL and an unmutated IGHV gene who progressed on venetoclax + obinutuzumab is being evaluated for acalabrutinib. Compared to ibrutinib, which of the following pharmacological characteristics of acalabrutinib are clinically significant? (Select all that apply)",
+      "options": {
+        "A": "Acalabrutinib has greater selectivity for BTK with reduced off-target inhibition of ITK, EGFR, and TEC family kinases, resulting in lower rates of atrial fibrillation and bleeding",
+        "B": "Acalabrutinib requires twice-daily dosing due to a shorter half-life compared to ibrutinib",
+        "C": "Acalabrutinib is a reversible, non-covalent BTK inhibitor, making it effective against C481S mutations",
+        "D": "Acalabrutinib is metabolized by CYP3A4; concomitant PPI use reduces absorption due to pH-dependent solubility and should be separated or substituted with H2 blockers",
+        "E": "Acalabrutinib has demonstrated superior overall survival compared to ibrutinib in a head-to-head phase III trial in CLL"
+      },
+      "type": "multiChoice",
+      "answer": ["A", "B", "D"]
+    },
+    {
+      "id": 10,
+      "question": "A 74-year-old male with treatment-naive CML-CP and significant cardiovascular comorbidities (prior MI, type 2 diabetes, hyperlipidemia) requires TKI selection. Which of the following best guides the choice between available first-line TKI options for this patient?",
+      "options": {
+        "A": "Dasatinib is preferred due to its lower cardiovascular toxicity profile and once-daily dosing",
+        "B": "Nilotinib is preferred because it achieves deeper molecular responses faster than imatinib in high Sokal risk patients",
+        "C": "Imatinib or bosutinib are preferred first-line options given the patient's cardiovascular history, as dasatinib carries pulmonary arterial hypertension and pleural effusion risk, and nilotinib carries significant arterial occlusive event risk",
+        "D": "Asciminib should be used first-line given its STAMP mechanism and favorable cardiovascular safety profile versus all other TKIs",
+        "E": "Ponatinib at 45 mg daily is appropriate given the high cardiovascular risk, as it provides the broadest mutational coverage and reduces the likelihood of future resistance"
+      },
+      "type": "singleChoice",
+      "answer": "C"
+    }
+  ]
+}

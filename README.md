@@ -1,6 +1,26 @@
-# Quiz Python Application
+# AIQuiz (QuizPython)
 
-A modern, interactive quiz application built with Python and PyQt6, designed to help users study and prepare for exams with session management, progress tracking, and comprehensive review capabilities.
+A personal desktop quiz app built with **Python 3** and **PyQt6** for exam study — multiple-choice questions, session save/resume, progress tracking, and incorrect-answer review.
+
+**Status:** Personal tool (not App Store) · **GitHub:** [jacobrozell/AIQuiz](https://github.com/jacobrozell/AIQuiz) · **Branch:** `main`
+
+Exam banks live under `exams/` (BCOP CML/CLL, pharmacokinetics mock, tDojo imports). Extended notes in [`docs/`](docs/).
+
+---
+
+## Project structure
+
+```
+QuizPython/
+├── main.py              App entry point
+├── exams/               JSON question banks (one file per exam)
+├── data/sessions/       Saved in-progress sessions
+├── results/             Completed quiz results
+├── docs/                Extended documentation
+└── requirements.txt     PyQt6 and dependencies
+```
+
+---
 
 ## System Requirements
 
@@ -153,8 +173,8 @@ Expected AI response:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-python.git
-   cd quiz-python
+   git clone git@github.com-personal:jacobrozell/AIQuiz.git
+   cd AIQuiz
    ```
 
 2. Install dependencies:
